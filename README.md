@@ -2,13 +2,13 @@
 
 ## Machine learning for image recongization
 
-The whole code can be found in ``.py``.
+The whole code can be found in ``project.py``.
 
 ---
 
 ### Interactive interface
 
-See ``.ipynb`` for interactive interface and visual graphics. 
+See ``project.ipynb`` for interactive interface and visual graphics. 
 
 **Note:** 
 
@@ -16,14 +16,10 @@ See ``.ipynb`` for interactive interface and visual graphics.
 
 ### Accruacy
 
-We can generate the model using ``.py``, which is 
-``model.pkl``, the **Train Accuracy** of the model is $\%$, and the **Test  Accuracy** is $\%$. 
-
-*See ``.out`` to see the accuracy for each epoch. The accuracy in ``.ipynb`` is not the final result.*
+The generated models are saved in ``./model``, the **Train Accuracy** of the model is $\%$, and the **Test  Accuracy** is $\%$. 
 
 ---
 
 #### APPENDIX
 
-This project is run using ``High-performance computing cluster`` π of **SJTU**. 
-See ``.slurm`` for the script for submit calculation task.
+This project is run using ``High-performance computing cluster`` of **SJTU**. 
