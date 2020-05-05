@@ -2,15 +2,13 @@
 
 ## Machine learning for image recongization
 
-The whole code can be found in ``project.py``.
+The whole code can be found in ``./Codes``.
 
 ---
 
 ### Interactive interface
 
-See ``project.ipynb`` for interactive interface and visual graphics. 
-
-**Note:** 
+See ``*.ipynb`` for interactive interface and accuacy. 
 
 ---
 
