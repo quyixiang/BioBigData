@@ -2,22 +2,19 @@
 
 ## Machine learning for image recongization
 
-The whole code can be found in ``./Codes``.
+The whole code can be found in ``./Codes/*.ipynb``.
 
 ---
 
-### Interactive interface
+### Model and Accruacy
 
-See ``*.ipynb`` for interactive interface and accuacy. 
+The generated models are saved in ``./Models``. It contains two conventional CNN models and one CNN model based on Resnet.
 
----
-
-### Accruacy
-
-The generated models are saved in ``./model``, the **Train Accuracy** of the model is $\%$, and the **Test  Accuracy** is $\%$. 
+The accuracy are saved in ``./Results``.
 
 ---
 
 #### APPENDIX
 
 This project is run using ``High-performance computing cluster`` of **SJTU**. 
+
