@@ -25,5 +25,5 @@ We can generate the model using ``.py``, which is
 
 #### APPENDIX
 
-This project is run using ``High-performance computing cluster`` $π$ of **SJTU**. 
+This project is run using ``High-performance computing cluster`` π of **SJTU**. 
 See ``.slurm`` for the script for submit calculation task.
