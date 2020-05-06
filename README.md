@@ -18,7 +18,13 @@ The train and test accuracy are saved in ``./Results``.
 
 #### APPENDIX
 
-This project was run using ``High-performance computing cluster`` of **SJTU**. 
+This project was run using ``High-performance computing cluster`` of **SJTU**.
 
-Please see ``Thesis.pdf`` for more information.
+The thesis was written using ``Overleaf``.
+
+---
+
+*Wangjie Zheng*, *Zhizhuo Zhang*, *Xinyu Jia*, *Yunzhe Jiang* and *Yixiang Qu* made equal contribution to the project.
+
+**Please see ``Thesis.pdf`` for more information.**
 
