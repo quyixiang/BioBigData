@@ -2,7 +2,9 @@
 
 ## Machine learning for image recongization
 
-The whole code can be found in ``./Codes/*.ipynb``.
+### Codes
+
+The whole code can be found in ``./Codes``.
 
 ---
 
@@ -10,11 +12,13 @@ The whole code can be found in ``./Codes/*.ipynb``.
 
 The generated models are saved in ``./Models``. It contains two conventional CNN models and one CNN model based on Resnet.
 
-The accuracy are saved in ``./Results``.
+The train and test accuracy are saved in ``./Results``.
 
 ---
 
 #### APPENDIX
 
-This project is run using ``High-performance computing cluster`` of **SJTU**. 
+This project was run using ``High-performance computing cluster`` of **SJTU**. 
+
+Please see ``Thesis.pdf`` for more information.
 
